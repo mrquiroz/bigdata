@@ -1,0 +1,140 @@
+**************************************************
+Probabilidad de atraso sobre media para la clase: delivery_zone 
+
+la probabilidad de atraso para delivery_zone V es: 0.44884488448844884
+la probabilidad de atraso para delivery_zone VIII es: 0.44605475040257647
+la probabilidad de atraso para delivery_zone I es: 0.4448818897637795
+la probabilidad de atraso para delivery_zone VII es: 0.46116504854368934
+la probabilidad de atraso para delivery_zone II es: 0.5427927927927928
+la probabilidad de atraso para delivery_zone IV es: 0.38992688870836717
+la probabilidad de atraso para delivery_zone III es: 0.47896440129449835
+la probabilidad de atraso para delivery_zone VI es: 0.5680902497985496
+
+
+**************************************************
+Probabilidad de atraso sobre media para la clase: deliverer_id 
+
+la probabilidad de atraso para deliverer_id 51 es: 0.5842696629213483
+la probabilidad de atraso para deliverer_id 99 es: 0.5384615384615384
+la probabilidad de atraso para deliverer_id 20 es: 0.49
+la probabilidad de atraso para deliverer_id 79 es: 0.4336283185840708
+la probabilidad de atraso para deliverer_id 3 es: 0.1926605504587156
+la probabilidad de atraso para deliverer_id 35 es: 0.41346153846153844
+la probabilidad de atraso para deliverer_id 89 es: 0.37168141592920356
+la probabilidad de atraso para deliverer_id 14 es: 0.4787234042553192
+la probabilidad de atraso para deliverer_id 47 es: 0.5086206896551724
+la probabilidad de atraso para deliverer_id 26 es: 0.6
+la probabilidad de atraso para deliverer_id 91 es: 0.43617021276595747
+la probabilidad de atraso para deliverer_id 36 es: 0.3804347826086957
+la probabilidad de atraso para deliverer_id 2 es: 0.2871287128712871
+la probabilidad de atraso para deliverer_id 54 es: 0.5045045045045045
+la probabilidad de atraso para deliverer_id 72 es: 0.5164835164835165
+la probabilidad de atraso para deliverer_id 18 es: 0.5652173913043478
+la probabilidad de atraso para deliverer_id 41 es: 0.5353535353535354
+la probabilidad de atraso para deliverer_id 98 es: 0.5333333333333333
+la probabilidad de atraso para deliverer_id 88 es: 0.391304347826087
+la probabilidad de atraso para deliverer_id 13 es: 0.3559322033898305
+la probabilidad de atraso para deliverer_id 85 es: 0.4444444444444444
+la probabilidad de atraso para deliverer_id 60 es: 0.3939393939393939
+la probabilidad de atraso para deliverer_id 59 es: 0.4329896907216495
+la probabilidad de atraso para deliverer_id 22 es: 0.6120689655172413
+la probabilidad de atraso para deliverer_id 65 es: 0.651685393258427
+la probabilidad de atraso para deliverer_id 0 es: 0.5319148936170213
+la probabilidad de atraso para deliverer_id 9 es: 0.30701754385964913
+la probabilidad de atraso para deliverer_id 39 es: 0.4158415841584158
+la probabilidad de atraso para deliverer_id 25 es: 0.5841584158415841
+la probabilidad de atraso para deliverer_id 95 es: 0.40186915887850466
+la probabilidad de atraso para deliverer_id 61 es: 0.6122448979591837
+la probabilidad de atraso para deliverer_id 49 es: 0.4948453608247423
+la probabilidad de atraso para deliverer_id 69 es: 0.5285714285714286
+la probabilidad de atraso para deliverer_id 57 es: 0.5188679245283019
+la probabilidad de atraso para deliverer_id 24 es: 0.5098039215686274
+la probabilidad de atraso para deliverer_id 73 es: 0.5604395604395604
+la probabilidad de atraso para deliverer_id 5 es: 0.42857142857142855
+la probabilidad de atraso para deliverer_id 64 es: 0.6213592233009708
+la probabilidad de atraso para deliverer_id 77 es: 0.40229885057471265
+la probabilidad de atraso para deliverer_id 56 es: 0.46938775510204084
+la probabilidad de atraso para deliverer_id 97 es: 0.5102040816326531
+la probabilidad de atraso para deliverer_id 50 es: 0.5194805194805194
+la probabilidad de atraso para deliverer_id 42 es: 0.44036697247706424
+la probabilidad de atraso para deliverer_id 4 es: 0.4148936170212766
+la probabilidad de atraso para deliverer_id 46 es: 0.33076923076923076
+la probabilidad de atraso para deliverer_id 37 es: 0.4777777777777778
+la probabilidad de atraso para deliverer_id 43 es: 0.4796747967479675
+la probabilidad de atraso para deliverer_id 82 es: 0.4489795918367347
+la probabilidad de atraso para deliverer_id 93 es: 0.4090909090909091
+la probabilidad de atraso para deliverer_id 83 es: 0.4956521739130435
+la probabilidad de atraso para deliverer_id 76 es: 0.5769230769230769
+la probabilidad de atraso para deliverer_id 8 es: 0.3541666666666667
+la probabilidad de atraso para deliverer_id 96 es: 0.5663716814159292
+la probabilidad de atraso para deliverer_id 66 es: 0.65625
+la probabilidad de atraso para deliverer_id 87 es: 0.4536082474226804
+la probabilidad de atraso para deliverer_id 70 es: 0.5494505494505495
+la probabilidad de atraso para deliverer_id 15 es: 0.4369747899159664
+la probabilidad de atraso para deliverer_id 71 es: 0.48412698412698413
+la probabilidad de atraso para deliverer_id 31 es: 0.53
+la probabilidad de atraso para deliverer_id 19 es: 0.5591397849462365
+la probabilidad de atraso para deliverer_id 29 es: 0.6039603960396039
+la probabilidad de atraso para deliverer_id 75 es: 0.43820224719101125
+la probabilidad de atraso para deliverer_id 16 es: 0.4024390243902439
+la probabilidad de atraso para deliverer_id 7 es: 0.42528735632183906
+la probabilidad de atraso para deliverer_id 86 es: 0.45
+la probabilidad de atraso para deliverer_id 78 es: 0.42857142857142855
+la probabilidad de atraso para deliverer_id 40 es: 0.5242718446601942
+la probabilidad de atraso para deliverer_id 55 es: 0.5154639175257731
+la probabilidad de atraso para deliverer_id 68 es: 0.6292134831460674
+la probabilidad de atraso para deliverer_id 32 es: 0.3488372093023256
+la probabilidad de atraso para deliverer_id 44 es: 0.37623762376237624
+la probabilidad de atraso para deliverer_id 1 es: 0.49056603773584906
+la probabilidad de atraso para deliverer_id 34 es: 0.35051546391752575
+la probabilidad de atraso para deliverer_id 90 es: 0.3333333333333333
+la probabilidad de atraso para deliverer_id 92 es: 0.5283018867924528
+la probabilidad de atraso para deliverer_id 23 es: 0.5233644859813084
+la probabilidad de atraso para deliverer_id 62 es: 0.48863636363636365
+la probabilidad de atraso para deliverer_id 48 es: 0.54
+la probabilidad de atraso para deliverer_id 6 es: 0.4107142857142857
+la probabilidad de atraso para deliverer_id 74 es: 0.4069767441860465
+la probabilidad de atraso para deliverer_id 45 es: 0.44660194174757284
+la probabilidad de atraso para deliverer_id 67 es: 0.660377358490566
+la probabilidad de atraso para deliverer_id 10 es: 0.3434343434343434
+la probabilidad de atraso para deliverer_id 11 es: 0.34545454545454546
+la probabilidad de atraso para deliverer_id 21 es: 0.5625
+la probabilidad de atraso para deliverer_id 63 es: 0.5666666666666667
+la probabilidad de atraso para deliverer_id 38 es: 0.3684210526315789
+la probabilidad de atraso para deliverer_id 81 es: 0.42424242424242425
+la probabilidad de atraso para deliverer_id 94 es: 0.45161290322580644
+la probabilidad de atraso para deliverer_id 58 es: 0.5555555555555556
+la probabilidad de atraso para deliverer_id 80 es: 0.43564356435643564
+la probabilidad de atraso para deliverer_id 53 es: 0.47674418604651164
+la probabilidad de atraso para deliverer_id 28 es: 0.5686274509803921
+la probabilidad de atraso para deliverer_id 12 es: 0.5098039215686274
+la probabilidad de atraso para deliverer_id 52 es: 0.4326923076923077
+la probabilidad de atraso para deliverer_id 30 es: 0.49523809523809526
+la probabilidad de atraso para deliverer_id 84 es: 0.4716981132075472
+la probabilidad de atraso para deliverer_id 27 es: 0.4782608695652174
+la probabilidad de atraso para deliverer_id 17 es: 0.39361702127659576
+la probabilidad de atraso para deliverer_id 33 es: 0.5
+
+
+**************************************************
+Probabilidad de atraso sobre media para la clase: menu 
+
+la probabilidad de atraso para menu French es: 0.5099337748344371
+la probabilidad de atraso para menu Japanese es: 0.45066991473812423
+la probabilidad de atraso para menu Indian es: 0.5062462819750149
+la probabilidad de atraso para menu Asian es: 0.4830977258758451
+la probabilidad de atraso para menu Mexican es: 0.4398843930635838
+la probabilidad de atraso para menu Italian es: 0.45087402049427366
+
+
+**************************************************
+Probabilidad de atraso sobre media para la clase: subscription_type 
+
+la probabilidad de atraso para subscription_type Semestral es: 0.4945717732207479
+la probabilidad de atraso para subscription_type Prepaid es: 0.44709302325581396
+la probabilidad de atraso para subscription_type Trimestral es: 0.4674726540011514
+la probabilidad de atraso para subscription_type Monthly es: 0.4864864864864865
+la probabilidad de atraso para subscription_type Yearly es: 0.46795646916565903
+la probabilidad de atraso para subscription_type Free es: 0.4778540237055521
+
+

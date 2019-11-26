@@ -1,0 +1,36 @@
+modelo: LogisticRegression
+              precision    recall  f1-score   support
+
+           0       0.46      0.56      0.51       167
+           1       0.42      0.32      0.36       163
+
+    accuracy                           0.44       330
+   macro avg       0.44      0.44      0.43       330
+weighted avg       0.44      0.44      0.43       330
+modelo: BernoulliNB
+              precision    recall  f1-score   support
+
+           0       0.51      0.60      0.55       167
+           1       0.50      0.42      0.46       163
+
+    accuracy                           0.51       330
+   macro avg       0.51      0.51      0.50       330
+weighted avg       0.51      0.51      0.51       330
+modelo: DecisionTreeClassifier
+              precision    recall  f1-score   support
+
+           0       0.52      0.44      0.47       167
+           1       0.50      0.58      0.54       163
+
+    accuracy                           0.51       330
+   macro avg       0.51      0.51      0.51       330
+weighted avg       0.51      0.51      0.51       330
+modelo: RandomForestClassifier
+              precision    recall  f1-score   support
+
+           0       0.48      0.57      0.52       167
+           1       0.46      0.37      0.41       163
+
+    accuracy                           0.47       330
+   macro avg       0.47      0.47      0.47       330
+weighted avg       0.47      0.47      0.47       330
