@@ -33,7 +33,7 @@ done
 aws s3 cp s3://mrquiroz/richardson_clarissa/clarissa_1.txt - | cat | python mapper.py | sort -k1,1 | python reducer.py > out_reducer.txt
 
 i=1
-while [ $i -le 3 ]
+while [ $i -le 9 ]
 do
 aws s3 cp s3://mrquiroz/richardson_clarissa/clarissa_$i.txt - | cat | python mapper.py | sort -k1,1 | python reducer.py > out_reducer_$i.txt
 aws s3 cp out_reducer_$i.txt s3://mrquiroz/richardson_clarissa/
