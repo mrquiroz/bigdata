@@ -1,0 +1,1 @@
+SELECT count(user_profile.user_mboxsha1) FROM user_profile LEFT JOIN artists ON user_profile.user_mboxsha1 = artists.user_mboxsha1 WHERE artists.user_mboxsha1 IS NULL;

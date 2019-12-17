@@ -1,0 +1,1 @@
+SELECT count(user_mboxsha1) as numero , country FROM user_profile GROUP BY country ORDER BY numero + 0 desc;
